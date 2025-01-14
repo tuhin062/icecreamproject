@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+woo.templately.com	TRUE	/	FALSE	1999999999	woocommerce_items_in_cart	1
+woo.templately.com	TRUE	/	FALSE	1999999999	wp_woocommerce_session_37025f157e4946fa6467b1841c52bb13	t_9806899a6c33323aa42fcc5bf44ff3%7C%7C1736658257%7C%7C1736654657%7C%7Cc1b24cc4437714d993210dcd98c573c4
+woo.templately.com	TRUE	/	FALSE	1999999999	woocommerce_cart_hash	af6a34b1fd11c791630be3bbc29e37bc
+
